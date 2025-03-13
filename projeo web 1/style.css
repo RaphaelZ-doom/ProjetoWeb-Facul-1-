@@ -1,3 +1,21 @@
 body {
     background-color: #006555;
+    color: aliceblue;
+    font-family: arial;
+    font-size: 20px;
+}
+h1
+{
+  color: green;
+}
+#job
+{
+  font-size: 20px;
+}
+.noticias
+{
+  font-family: arial;
+}
+#job{
+    color: blue;
 }
